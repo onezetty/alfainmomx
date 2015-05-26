@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inmobiliarias>
+        <inmobiliaria>
+                <nombre><![CDATA[Alfa Vivendi]]></nombre>
+                <email><![CDATA[vivendi@alfamexico.com]]></email>
+                <telefono><![CDATA[01 (998) 802 01 01]]></telefono>
+                <direccion><![CDATA[Av. Bonampak 173, Oficina 101 SM 4 M 3 L 23]]></direccion>
+                <ciudad><![CDATA[Cancún]]></ciudad>
+                <estado><![CDATA[Quintana Roo]]></estado>
+                <pais><![CDATA[Mexico]]></pais>
+                <logo><![CDATA[http://alfamexico.com/imagenes/logo.png]]></logo>
+                <id_oficina><![CDATA[6509]]></id_oficina>
+                <url_oficina><![CDATA[alfavivendi.com]]></url_oficina>
+                <propiedades>
+                        <propiedad>
+                        <id_propiedad><![CDATA[6509-00001]]></id_propiedad>
+                        <destacado><![CDATA[1]]></destacado>
+                        <fecha_publicacion><![CDATA[01012015]]></fecha_publicacion> DDMMAAAA
+                        <fecha_actualizacion><![CDATA[24022015]]></fecha_actualizacion>  DDMMAAAA
+                        <url_propiedad><![CDATA[alfamexico.com/6509-00001]]></url_propiedad>
+                        <titulo><![CDATA[Casa en Venta en Playacar Fase II, Cancún]]></titulo>
+                        <descripcion><![CDATA[---Descripción abreviada---]]></descripcion>
+                        <familia_inmobiliaria><![CDATA[Casa]]></familia_inmobiliaria>
+                        <tipo_inmueble><![CDATA[Casa Sola]]></tipo_propiedad>
+                        <calle><![CDATA[Xpu-Ha]]></calle>
+                        <numero><![CDATA[34]]></numero>
+                        <zona><![CDATA[Playacar Fase II]]></zona>
+                        <ciudad><![CDATA[Cancun]]></ciudad>
+                        <estado><![CDATA[Quintana Roo]]></estado>
+                        <pais><![CDATA[México]]></pais>
+                        <codigo_postal><![CDATA[77509]]></codigo_postal>
+                        <transaccion><![CDATA[Venta]]></transaccion> // **Venta; Renta; Venta y Renta
+                        <precio_venta><![CDATA[2500000]]></precio>
+                        <precio_renta><![CDATA[0]]></precio_renta>
+                        <moneda><![CDATA[MXN]]></moneda> //MXN, USD, EUR, etc.
+                        <recamaras><![CDATA[3]]></recamaras>
+                        <bannos><![CDATA[3]]></bannos>
+                        <aseos><![CDATA[1]]></aseos> //Muchos portales toman los aseos como "medios baños" ejemplo 3.1
+                        <m2_construccion><![CDATA[250]]></m2_construccion>
+                        <m2_terreno><![CDATA[150]]></m2_terreno>
+                        <estacionamiento><![CDATA[2]]></estacionamiento>
+                        <plantas><![CDATA[2]]></plantas>
+                        <nivel><![CDATA[0]]></nivel> //Solo aplica en departamentos
+                        <niveles_edificio><![CDATA[0]]></niveles_edificio> //Solo aplica en departamentos
+                        <piscina><![CDATA[0]]></piscina> // 1 - 0
+                        <amueblado><![CDATA[0]]></amueblado>
+                        <jardin><![CDATA[1]]></jardin>
+                        <ascensor><![CDATA[0]]></ascensor>
+                        <obra_nueva><![CDATA[0]]></obra_nueva>
+                        <gasto_comunidad><![CDATA[300]]></gasto_comunidad> // 
+                        <anno_construccion><![CDATA[2000]]></anno_construccion>
+                        <annos><![CDATA[15]]></annos>
+                        <latitud><![CDATA[-31.398930]]></latitud>
+                        <longitud><![CDATA[-64.182129]]></longitud>
+                        <imagenes>
+                                <imagen>
+                                <nombre><![CDATA[Frente]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/01.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Sala]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/02.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Cocina]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/02.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Plano]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/03.jpg]]></url>
+                                </imagen>
+                        </imagenes> //Es importante hacer obligatorio como minimo una o dos fotos (Frente / Plano).
+                        </propiedad>
+			<propiedad>
+                        <id_propiedad><![CDATA[6509-00002]]></id_propiedad>
+                        <destacado><![CDATA[1]]></destacado>
+                        <fecha_publicacion><![CDATA[02012015]]></fecha_publicacion> DDMMAAAA
+                        <fecha_actualizacion><![CDATA[07032015]]></fecha_actualizacion>  DDMMAAAA
+                        <url_propiedad><![CDATA[alfamexico.com/6509-00002]]></url_propiedad>
+                        <titulo><![CDATA[Departamento en Venta en SM 30, Cancún]]></titulo>
+                        <descripcion><![CDATA[---Descripción abreviada---]]></descripcion>
+                        <familia_inmobiliaria><![CDATA[Departamento]]></familia_inmobiliaria>
+                        <tipo_inmueble><![CDATA[Departamento]]></tipo_propiedad>
+                        <calle><![CDATA[Tankah]]></calle>
+                        <numero><![CDATA[65]]></numero>
+                        <zona><![CDATA[SM 30]]></zona>
+                        <ciudad><![CDATA[Cancun]]></ciudad>
+                        <estado><![CDATA[Quintana Roo]]></estado>
+                        <pais><![CDATA[México]]></pais>
+                        <codigo_postal><![CDATA[77509]]></codigo_postal>
+                        <transaccion><![CDATA[Venta y Renta]]></transaccion> // **Venta; Renta; Venta y Renta
+                        <precio_venta><![CDATA[1500000]]></precio>
+                        <precio_renta><![CDATA[10000]]></precio_renta>
+                        <moneda><![CDATA[MXN]]></moneda> //MXN, USD, EUR, etc.
+                        <recamaras><![CDATA[2]]></recamaras>
+                        <bannos><![CDATA[2]]></bannos>
+                        <aseos><![CDATA[1]]></aseos> //Muchos portales toman los aseos como "medios baños" ejemplo 3.1
+                        <m2_construccion><![CDATA[85]]></m2_construccion>
+                        <m2_terreno><![CDATA[0]]></m2_terreno>
+                        <estacionamiento><![CDATA[2]]></estacionamiento>
+                        <plantas><![CDATA[1]]></plantas>
+                        <nivel><![CDATA[15]]></nivel> //Nivel del edificio donde esta el inmueble
+                        <niveles_edificio><![CDATA[25]]></niveles_edificio> //Niveles totales del edificio
+                        <piscina><![CDATA[1]]></piscina> // 1 (si) - 0 (no)
+                        <amueblado><![CDATA[0]]></amueblado>
+                        <jardin><![CDATA[0]]></jardin>
+                        <ascensor><![CDATA[1]]></ascensor>
+                        <obra_nueva><![CDATA[0]]></obra_nueva>
+                        <gasto_comunidad><![CDATA[850]]></gasto_comunidad> // 
+                        <anno_construccion><![CDATA[2008]]></anno_construccion>
+                        <annos><![CDATA[7]]></annos>
+                        <latitud><![CDATA[-31.398930]]></latitud>
+                        <longitud><![CDATA[-64.182129]]></longitud>
+                        <imagenes>
+                                <imagen>
+                                <nombre><![CDATA[Frente]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/01.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Sala]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/02.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Cocina]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/02.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Plano]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/03.jpg]]></url>
+                                </imagen>
+                        </imagenes>
+                        </propiedad>
+			<propiedad>
+                        <id_propiedad><![CDATA[6509-00002]]></id_propiedad>
+                        <destacado><![CDATA[1]]></destacado>
+                        <fecha_publicacion><![CDATA[02012015]]></fecha_publicacion> DDMMAAAA
+                        <fecha_actualizacion><![CDATA[07032015]]></fecha_actualizacion>  DDMMAAAA
+                        <url_propiedad><![CDATA[alfamexico.com/6509-00002]]></url_propiedad>
+                        <titulo><![CDATA[Terreno en Venta en SM 31, Cancún]]></titulo>
+                        <descripcion><![CDATA[---Descripción abreviada---]]></descripcion>
+                        <familia_inmobiliaria><![CDATA[Terreno]]></familia_inmobiliaria>
+                        <tipo_inmueble><![CDATA[Terreno]]></tipo_propiedad>
+                        <calle><![CDATA[Coba]]></calle>
+                        <numero><![CDATA[56]]></numero>
+                        <zona><![CDATA[SM 31]]></zona>
+                        <ciudad><![CDATA[Cancun]]></ciudad>
+                        <estado><![CDATA[Quintana Roo]]></estado>
+                        <pais><![CDATA[México]]></pais>
+                        <codigo_postal><![CDATA[77509]]></codigo_postal>
+                        <transaccion><![CDATA[Venta]]></transaccion> // **Venta; Renta; Venta y Renta
+                        <precio_venta><![CDATA[150000]]></precio>
+                        <precio_renta><![CDATA[0]]></precio_renta>
+                        <moneda><![CDATA[USD]]></moneda> //MXN, USD, EUR, etc.
+                        <recamaras><![CDATA[0]]></recamaras>
+                        <bannos><![CDATA[0]]></bannos>
+                        <aseos><![CDATA[0]]></aseos> //Muchos portales toman los aseos como "medios baños" ejemplo 3.1
+                        <m2_construccion><![CDATA[0]]></m2_construccion>
+                        <m2_terreno><![CDATA[3000]]></m2_terreno>
+                        <estacionamiento><![CDATA[0]]></estacionamiento>
+                        <plantas><![CDATA[0]]></plantas>
+                        <nivel><![CDATA[0]]></nivel> //Nivel del edificio donde esta el inmueble
+                        <niveles_edificio><![CDATA[0]]></niveles_edificio> //Niveles totales del edificio
+                        <piscina><![CDATA[0]]></piscina> // 1 (si) - 0 (no)
+                        <amueblado><![CDATA[0]]></amueblado>
+                        <jardin><![CDATA[0]]></jardin>
+                        <ascensor><![CDATA[0]]></ascensor>
+                        <obra_nueva><![CDATA[0]]></obra_nueva>
+                        <gasto_comunidad><![CDATA[0]]></gasto_comunidad> // 
+                        <anno_construccion><![CDATA[2015]]></anno_construccion>
+                        <annos><![CDATA[0]]></annos>
+                        <latitud><![CDATA[-31.398930]]></latitud>
+                        <longitud><![CDATA[-64.182129]]></longitud>
+                        <imagenes>
+                                <imagen>
+                                <nombre><![CDATA[Frente]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/01.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Sala]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/02.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Cocina]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/02.jpg]]></url>
+                                </imagen>
+                                <imagen>
+                                <nombre><![CDATA[Plano]]></nombre>
+                                <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/03.jpg]]></url>
+                                </imagen>
+                        </imagenes>
+                        </propiedad>
+                </propiedades>
+        </inmobiliaria>
+                <nombre><![CDATA[Alfa Caribe Inmobiliria]]></nombre>
+                <email><![CDATA[cariba@alfamexico.com]]></email>
+                <telefono><![CDATA[01 (998) 848 00 68]]></telefono>
+                <direccion><![CDATA[Coba 23, SM 31]]></direccion>
+                <ciudad><![CDATA[Cancún]]></ciudad>
+                <estado><![CDATA[Quintana Roo]]></estado>
+                <pais><![CDATA[Mexico]]></pais>
+                <logo><![CDATA[http://alfamexico.com/imagenes/logo.png]]></logo>
+                <id_oficina><![CDATA[9904]]></id_oficina>
+                <url_oficina><![CDATA[alfacaribeinmobiliaria.com]]></url_oficina>
+                <propiedades>
+                --------FEED DE INMUEBLES DE ALFA CARIBE------------
+                </propiedades>
+        </inmobiliaria>
+</inmobiliarias>
