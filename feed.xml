@@ -15,11 +15,11 @@
                         <propiedad>
                         <id_propiedad><![CDATA[6509-00001]]></id_propiedad>
                         <destacado><![CDATA[1]]></destacado>
-                        <fecha_publicacion><![CDATA[01012015]]></fecha_publicacion> DDMMAAAA
-                        <fecha_actualizacion><![CDATA[24022015]]></fecha_actualizacion>  DDMMAAAA
+                        <fecha_publicacion><![CDATA[01012015]]></fecha_publicacion> //DDMMAAAA
+                        <fecha_actualizacion_resumida><![CDATA[24022015]]></fecha_actualizacion_resumida> //DDMMAAAA
                         <url_propiedad><![CDATA[alfamexico.com/6509-00001]]></url_propiedad>
                         <titulo><![CDATA[Casa en Venta en Playacar Fase II, Cancún]]></titulo>
-                        <descripcion><![CDATA[---Descripción abreviada---]]></descripcion>
+                        <descripcion><![CDATA[---Descripción abreviada del inmueble---]]></descripcion>
                         <familia_inmobiliaria><![CDATA[Casa]]></familia_inmobiliaria>
                         <tipo_inmueble><![CDATA[Casa Sola]]></tipo_propiedad>
                         <calle><![CDATA[Xpu-Ha]]></calle>
