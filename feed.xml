@@ -188,6 +188,9 @@
                                 <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/03.jpg]]></url>
                                 </imagen>
                         </imagenes>
+                        <video>
+                        	<![CDATA[url.youtube.com/videoalfa]]>
+                        </video>
                         </propiedad>
                 </propiedades>
         </inmobiliaria>
