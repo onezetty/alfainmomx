@@ -165,7 +165,7 @@
                         <jardin><![CDATA[0]]></jardin>
                         <ascensor><![CDATA[0]]></ascensor>
                         <obra_nueva><![CDATA[0]]></obra_nueva>
-                        <gasto_comunidad><![CDATA[0]]></gasto_comunidad> // 
+                        <gasto_comunidad><![CDATA[0]]></gasto_comunidad>  
                         <anno_construccion><![CDATA[2015]]></anno_construccion>
                         <annos><![CDATA[0]]></annos>
                         <latitud><![CDATA[-31.398930]]></latitud>
@@ -188,9 +188,7 @@
                                 <url><![CDATA[http://alfamexico.com/inmuebles/6509-00001/03.jpg]]></url>
                                 </imagen>
                         </imagenes>
-                        <video>
-                        	<![CDATA[url.youtube.com/videoalfa]]>
-                        </video>
+                        <video><![CDATA[url.youtube.com/videoalfa]]></video>
                         </propiedad>
                 </propiedades>
         </inmobiliaria>
