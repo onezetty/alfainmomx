@@ -1,0 +1,37 @@
+<?php
+header("Content-Type: application/xml; charset=ISO-8859-1");
+ 
+// Load the XML source
+$xml = new DOMDocument;
+$xml->load('http://alfamexico.com/feeds_Xml_AMx/xml_inmuebles.php');
+ 
+$xsl = new DOMDocument;
+$xsl->load('http://104.236.162.162/xml/editor.xslt');
+ 
+// Configure the transformer
+$proc = new XSLTProcessor;
+$proc->importStyleSheet($xsl); // attach the xsl rules
+ 
+echo $proc->transformToXML($xml);
+ 
+ 
+?>
+ 
+<?php
+// Get cURL resource
+$curl = curl_init();
+// Set some options - we are passing in a useragent too here
+curl_setopt_array($curl, array(
+    CURLOPT_RETURNTRANSFER => 1,
+    CURLOPT_URL => 'http://alfainmomx.url.ph/xml/script-non-photo.php',
+    CURLOPT_USERAGENT => 'Alfakun'
+));
+// Send the request & save response to $resp
+$resp = curl_exec($curl);
+// Close request to clear up some resources
+curl_close($curl);
+ 
+$str = str_replace("alfamexico.com", "alfakun.com", $resp);
+echo $str;
+ 
+?>
