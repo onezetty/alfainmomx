@@ -1,0 +1,50 @@
+Familia: piso - Departamentos
+
+    Departamento (piso)
+    apartamento	Departamento
+    estudio		Departamento
+    loft		Departamento
+    dúplex		Departamento
+    ático		Departamento
+    
+chalet/casa (vivienda unifamiliar)		
+    chalet/casa adosado		Casa en condominio
+    chalet/casa independiente	Casa sola
+    chalet/casa pareado		--
+    Villa
+    Quinta
+    Rancho
+    Hacienda
+    Casa uso de suelo
+		
+local		
+Local Comercial
+Local en centro comercial
+		
+oficina		
+exclusivo oficinas	Oficina
+viviendas y oficinas	Oficina
+		
+garaje
+coche		Estacionamiento
+Moto		Estacionamiento
+		
+		
+terreno (con y sin construcción)		
+urbano		Terreno habitacional
+rústico		Terreno agrícola
+urbanizable	--	
+		Terreno comercial
+		Terreno industrial
+		Terreno agrícola
+		
+nave industrial		
+Nave industrial
+Bodega comercial
+		
+		
+otros (hotel, casa rural...)		
+Edificio
+Hotel
+Hospedaje
+Inmueble productivo urbano
