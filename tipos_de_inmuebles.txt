@@ -1,22 +1,23 @@
 Familia: piso - Departamentos
 
-    Departamento (piso)
-    apartamento	Departamento
-    estudio		Departamento
-    loft		Departamento
-    dúplex		Departamento
-    ático		Departamento
-    
-chalet/casa (vivienda unifamiliar)		
-    chalet/casa adosado		Casa en condominio
-    chalet/casa independiente	Casa sola
-    chalet/casa pareado		--
-    Villa
-    Quinta
-    Rancho
-    Hacienda
-    Casa uso de suelo
-		
+Tipos:
+		Departamento
+
+//Todos los inmuebles en la categoria "pisos" son departamentos.
+-----------------------------------------------
+
+Familia: chalet/casa (vivienda unifamiliar)
+	Tipos:
+    		Casa en condominio (chalet/casa adosado)
+    		Casa sola (chalet/casa independiente)
+    		Villa
+    		Quinta
+    		Rancho
+    		Hacienda
+    		Casa uso de suelo
+//chalet/casa pareado, es la misma,  México
+----------------------------------------------------------
+
 local		
 Local Comercial
 Local en centro comercial
